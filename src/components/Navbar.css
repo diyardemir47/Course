@@ -1,0 +1,59 @@
+/* Navbar.css */
+.navBar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(175, 98, 5);
+    color: white;
+    padding: 10px;
+  }
+  
+  .logo {
+    margin: 0;
+  }
+  
+  .navDiv {
+    display: flex;
+    align-items: center;
+  }
+  
+  .itemDiv {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+  }
+  
+  .itemsIcon {
+    font-size: 24px;
+    margin-right: 5px;
+  }
+  
+  .quantity {
+    margin: 0;
+    font-size: 18px;
+  }
+  
+/* Navbar.css */
+/* ... (other existing styles) */
+
+.totalDiv {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+  }
+  
+  .totalIcon {
+    font-size: 24px;
+    margin-right: 5px;
+  }
+  
+  .totalAmount {
+    margin: 0;
+    font-size: 18px;
+    display: flex;
+    align-items: center; /* Align items on the y-axis */
+  }
+  
+  /* Add more styles here as needed */
+  
